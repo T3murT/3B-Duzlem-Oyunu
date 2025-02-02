@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Engel
+  - "y\u0131k\u0131labilir"
   layers:
   - Default
   - TransparentFX

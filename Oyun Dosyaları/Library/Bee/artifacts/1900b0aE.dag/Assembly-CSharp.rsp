@@ -364,10 +364,13 @@
 "Assets/Hazır Nesneler/Supercyan Character Pack Free Sample/Scripts/SimpleSampleCharacterControl.cs"
 "Assets/Kodlar/Animasyondenetimi.cs"
 "Assets/Kodlar/BicakDonus.cs"
+"Assets/Kodlar/Bitis.cs"
 "Assets/Kodlar/kamerakontrol.cs"
 "Assets/Kodlar/karakterkontrol.cs"
 "Assets/Kodlar/Silinidr Donus.cs"
 "Assets/Kodlar/Yanma.cs"
+"Assets/Kodlar/yok olma.cs"
+"Assets/MenuKontrol.cs"
 -langversion:9.0
 /deterministic
 /optimize+
